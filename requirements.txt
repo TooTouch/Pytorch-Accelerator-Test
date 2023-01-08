@@ -1,0 +1,4 @@
+accelerate
+wandb
+torchvision
+git+https://github.com/ildoonet/pytorch-randaugment
